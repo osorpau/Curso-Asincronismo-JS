@@ -4,7 +4,8 @@
   "description": "curso de asincronismo con Javascript - Curso Plazti",
   "main": "index.js",
   "scripts": {
-    "callback" : "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/osorpau/Curso-Asincronismo-JS/issues"
   },
-  "homepage": "https://github.com/osorpau/Curso-Asincronismo-JS#readme"
+  "homepage": "https://github.com/osorpau/Curso-Asincronismo-JS#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "xmlhttprequest": "1.8.0"
+  }
 }
