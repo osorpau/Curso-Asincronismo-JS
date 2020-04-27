@@ -1,0 +1,22 @@
+{
+  "name": "js-async",
+  "version": "1.0.0",
+  "description": "curso de asincronismo con Javascript - Curso Plazti",
+  "main": "index.js",
+  "scripts": {
+    "callback" : "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osorpau/Curso-Asincronismo-JS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osorpau/Curso-Asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/osorpau/Curso-Asincronismo-JS#readme"
+}
