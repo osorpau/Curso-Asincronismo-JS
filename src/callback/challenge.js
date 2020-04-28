@@ -28,7 +28,7 @@ fetchData(API, function (error1, data1) {
     if (error2) return console.error(error2, 'error2');
     // console.log(data1.info, 'data1');
     // console.log(data2, 'data2');
-    fetchData(data2.origin.url ,function (error3,data3) {
+    fetchData(data2.origin.url, function (error3, data3) {
       if (error3) return console.error(error3, 'error3');
       console.log(data1.info.count, 'data1');
       console.log(data2.name, 'data2');
