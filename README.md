@@ -5,8 +5,8 @@ Se instalo para hacer solicitudes a una API
 ####Inline code
 `$ npm i xmlhttprequest -D -E`    
 
-| command      | descripción |
-| --------- | -----:|
+| Comando      | Descripción |
+| --------- | :-----|
 | i  | install |
 | -D |   Dependencia de desarrollo |
 | -E |  Versión exacta |    
