@@ -7,7 +7,7 @@ Se instalo para hacer solicitudes a una API
 
 | Comando      | Descripción |
 | --------- | :-----|
-| i  | install |
+| i  | Install |
 | -D |   Dependencia de desarrollo |
 | -E |  Versión exacta |    
     
