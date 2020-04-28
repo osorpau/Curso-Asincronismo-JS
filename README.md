@@ -3,6 +3,7 @@
 Se instalo para hacer solicitudes a una API
 
 ####Inline code
+
 `$ npm i xmlhttprequest -D -E`    
 
 | Comando      | Descripción |
