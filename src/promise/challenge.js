@@ -9,10 +9,10 @@ fetchData(API)
     })
     .then(data => {
         console.log(data.name);
-        return fetchData(data.origin.name);
+        return fetchData(data.origin.url);
     })
     .then(data => {
-        console.log(data.dimesion);
+        console.log(data.dimension);
     })
     .catch(
         err => console.error(err)
